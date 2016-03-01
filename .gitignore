@@ -1,6 +1,7 @@
 # Various folders/files.
 dist
 build
-
+.idea
 # NetBeans.
 nbproject
+*.class
